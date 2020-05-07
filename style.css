@@ -1,0 +1,193 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav{
+    width: 100%;
+}
+
+#top_bar{
+    background-color: cadetblue;
+    color: white;
+}
+
+#social_icons{
+    margin: 11px 10px 0px 10px;
+    font-size: 15px;
+    color: white;
+}
+#top_buttons{
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+.nav-item a{
+    color: black;
+    font-size: 15px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+.container-fluid{
+
+    width: 100%;
+}
+
+#myslider{
+    width: 100%;
+}
+
+marquee{
+    background-color:cadetblue ;
+    margin: 10px;
+    color: white;
+}
+#introsec{
+    background-color: #F8F9FA;
+}
+#introhead{
+    color: cadetblue; text-align: center;
+    padding-top: 50px;
+}
+#introduction{
+
+    text-align: justify; 
+    color: #868687;
+    padding: 5px 40px;
+}
+
+#icon-title{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 160px;
+    position: relative;
+}
+
+#icon-title:before{
+    content: "";
+    height: 2px;
+    position: absolute;
+    right: 10px;
+    top: 30px;
+    width: 36px;
+    background: #99CA3C
+
+}
+#icon-title:after {
+    content: "";
+    height: 2px;
+    left: 10px;
+    position: absolute;
+    top: 30px;
+    width: 36px;
+    background: #99CA3C;
+    
+}
+
+#divider{
+    background-color: cadetblue;
+    color: white;
+}
+#icons{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+#facts{
+    margin: 50px auto;
+}
+h5{
+    font-weight: 400;
+    font-size: 10px;
+}
+h5 font{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+#services{
+    background-color: #F8F9FA;
+   
+}
+#services_img{
+    max-width: 100%;
+    vertical-align: middle;
+    padding-top: 30px;
+}
+#services_content{
+    margin-bottom: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#services_title{
+    padding-bottom: 30px;
+}
+#services .container{
+    margin-top: 30px;
+}
+#upcoming_projects{
+    padding-top: 60px;
+    color: cadetblue;
+}
+
+#upcoming_projects h3{
+
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+#icon-box{
+    background-color:#F8F9FA ;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+#UP_title{
+    margin-left: 50px;
+}
+#UP_title h4{
+    font-size: 20px;
+}
+
+#upcoming_projects marquee{
+
+    background-color: white;
+    color: #666666;
+    text-align: justify;
+}
+
+#footer{
+    background-color: #24272E;
+}
+
+#footer .container{
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+
+#footer p {
+    color:#bbb;
+    margin-bottom: 10px;
+}
+
+#footer ul li{
+    color: #bbb;
+}
+
+.text-theme-colored{
+    color:lawngreen;
+    margin-right: 6px;
+    font-size: 12px;
+}
+#footer h5{
+    color: white;
+    
+    padding-bottom: 5px;
+
+}
+
+#footer .line-bottom{
+    border-bottom: 1px solid #444;
+}
+#footer_bottom{
+    background-color: cadetblue;
+    padding: 10px;
+}
